@@ -7,12 +7,15 @@ package Clases;
 
 /**
  *
- * @author Ariel
+ * @author Ariel Torres
+ * @author David Escobra
+ * @author Cristhian Castro
  */
 public class Main 
 {
     
     //Hola
+    //Hola Mundo
     
     
 }
