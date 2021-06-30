@@ -11,8 +11,12 @@ package Microcosmos;
  * @author David Escobra
  * @author Cristhian Castro
  */
-public class Main 
-{  
-    //HOLA MUNDO      
+public class Main {  
+    
+  public static void main(String [] args){
+    
+
+       
+    }
     
 }
