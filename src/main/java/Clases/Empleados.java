@@ -5,10 +5,7 @@
  */
 package Clases;
 
-/**
- *
- * @author david
- */
+
 public class Empleados {
     
 }
