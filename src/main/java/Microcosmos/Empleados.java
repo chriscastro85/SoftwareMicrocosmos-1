@@ -12,4 +12,5 @@ package Microcosmos;
 public class Empleados
 {
     
+    
 }
